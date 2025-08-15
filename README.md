@@ -94,7 +94,20 @@
     <h2><i class="fas fa-file-pdf"></i> Proyecto Completo</h2>
     <a href="Plan Docente de Natanael Torres.pdf" download class="pdf-button">
         <i class="fas fa-download"></i> Descargue el archivo (Plan de Natanael)
-        ![Fondo Azul](https://via.placeholder.com/1200x400/0b3d91/87cefa?text=Plan+de+Natanael)
+<div style="
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(135deg, #0b3d91, #1e90ff, #00bfff, #87cefa);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 15px;
+">
+  Bienvenido al Plan de Natanael
+</div>
 
     </a>
 </section>
