@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="Fondo Azul Gradiente">
-</p>
 
 # Plan de Natanael
 Bienvenido a mi proyecto de profesor de informática 😎
@@ -95,9 +92,16 @@ Bienvenido a mi proyecto de profesor de informática 😎
         }
         showSection('propósito');
     </script>
-¿
-">
+
   Bienvenido al Plan de Natanael
+
+  <section id="descargar-pdf">
+    <h2><i class="fas fa-file-pdf"></i> Proyecto Completo</h2>
+    <a href="Plan Docente de Natanael Torres.pdf" download class="pdf-button">
+        <i class="fas fa-download"></i> Descargue el archivo (Plan de Natanael)
+    </a>
+</section>
+
 </div>
 
     </a>
