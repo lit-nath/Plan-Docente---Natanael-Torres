@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="Fondo Azul Gradiente">
+</p>
+
+# Plan de Natanael
+Bienvenido a mi proyecto de profesor de informática 😎
 
 <html lang="es">
 <head>
