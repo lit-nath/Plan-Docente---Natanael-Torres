@@ -97,8 +97,7 @@
     <h2><i class="fas fa-file-pdf"></i> Proyecto Completo</h2>
     <a href="Plan Docente de Natanael Torres.pdf" download class="pdf-button">
         <i class="fas fa-download"></i> Descargue el archivo (Plan de Natanael)
-    </a>
-</section>
+  
 
 /* Fondo animado degradado azul */
 body {
