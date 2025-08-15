@@ -1,7 +1,4 @@
 
-
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +10,7 @@
 <body>
     <header>
         <h1><i class="fas fa-laptop-code"></i> Mi Plan como futuro Profesor de Informática</h1>
-        <p>Natanael Torres | 20 años | Graduado en Desarrollo de Software</p>
+        <p>Natanael Torres | 20 años | Ingeniero de Sistemas (Graduado de Tecnologia en Desarrollo de Software)</p>
     </header>
 
     <main>
@@ -97,154 +94,4 @@
     <h2><i class="fas fa-file-pdf"></i> Proyecto Completo</h2>
     <a href="Plan Docente de Natanael Torres.pdf" download class="pdf-button">
         <i class="fas fa-download"></i> Descargue el archivo (Plan de Natanael)
-  
-
-/* Fondo animado degradado azul */
-body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
-    background: linear-gradient(-45deg, #0b3d91, #1e90ff, #00bfff, #87cefa);
-    background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite;
-    color: #fff;
-}
-
-@keyframes gradientBG {
-    0% {background-position: 0% 50%;}
-    50% {background-position: 100% 50%;}
-    100% {background-position: 0% 50%;}
-}
-
-/* Header */
-header {
-    text-align: center;
-    padding: 30px 20px;
-    background: rgba(0,0,0,0.2);
-    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
-}
-
-header h1 {
-    margin: 0;
-    font-size: 28px;
-}
-
-header p {
-    margin: 5px 0 0;
-    font-size: 16px;
-}
-
-/* Botones */
-.buttons {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px 0;
-}
-
-.buttons button {
-    background-color: rgba(255,255,255,0.2);
-    border: none;
-    color: #fff;
-    padding: 12px 20px;
-    margin: 5px;
-    border-radius: 25px;
-    cursor: pointer;
-    transition: all 0.3s;
-    font-size: 14px;
-}
-
-.buttons button:hover {
-    background-color: rgba(255,255,255,0.5);
-    transform: scale(1.05);
-}
-
-/* Secciones */
-.section {
-    display: none;
-    max-width: 800px;
-    margin: 0 auto 30px;
-    padding: 20px;
-    background: rgba(0,0,0,0.2);
-    border-radius: 15px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-    opacity: 0;
-    transition: opacity 0.7s ease;
-}
-
-.section.fadeIn {
-    opacity: 1;
-}
-
-.section h2 {
-    margin-top: 0;
-    font-size: 22px;
-    border-bottom: 2px solid #fff;
-    padding-bottom: 5px;
-}
-
-.section ul {
-    padding-left: 20px;
-}
-
-/* Footer */
-footer {
-    text-align: center;
-    padding: 20px;
-    background: rgba(0,0,0,0.2);
-    font-size: 14px;
-}
-
-/* Iconos */
-i {
-    margin-right: 8px;
-}
-
-
-.pdf-button {
-    display: inline-block;
-    background-color: #ff4c4c;
-    color: white;
-    padding: 12px 20px;
-    border-radius: 25px;
-    text-decoration: none;
-    font-weight: bold;
-    margin: 10px 0;
-    transition: all 0.3s;
-}
-
-.pdf-button:hover {
-    background-color: #ff1a1a;
-    transform: scale(1.05);
-}
-
-/* Estilo para el iframe */
-iframe {
-    border: 2px solid rgba(255,255,255,0.5);
-    border-radius: 15px;
-    margin-top: 15px;
-}
-
-
-.pdf-button {
-    display: inline-block;
-    background-color: #180337;
-    color: white;
-    padding: 15px 25px;
-    border-radius: 30px;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 16px;
-    margin-top: 15px;
-    transition: all 0.3s;
-}
-
-.pdf-button:hover {
-    background-color: #1aa0ff;
-    transform: scale(1.05);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-}
-
-
-</body>
-</html>
+ 
