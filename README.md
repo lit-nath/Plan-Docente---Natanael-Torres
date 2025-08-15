@@ -10,7 +10,7 @@
 <body>
     <header>
         <h1><i class="fas fa-laptop-code"></i> Mi Plan como futuro Profesor de Informática</h1>
-        <p>Natanael Torres | 20 años | Graduado en Desarrollo de Software</p>
+        <p>Natanael Torres | 20 años | Ingeniero de Sistemas (Graduado en Tecnologia en Desarrollo de Software)</p>
     </header>
 
     <main>
